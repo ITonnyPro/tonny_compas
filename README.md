@@ -10,6 +10,6 @@ If you have it the compas in hud.
 -----------------------------
 ensure tonny_compas
 
-And in [vorp_core] in config.lua set :
+Set in [vorp_core] in config.lua :
 mapTypeOnFoot            = 0,
 mapTypeOnMount           = 0,
