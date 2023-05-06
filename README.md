@@ -13,3 +13,6 @@ ensure tonny_compas
 Set in [vorp_core] in config.lua :
 mapTypeOnFoot            = 0,
 mapTypeOnMount           = 0,
+
+Comment line [277] in [vorp_core -> client] in cl_spawnplayer.lua :
+From ``MapCheck()`` to ``--MapCheck()``
